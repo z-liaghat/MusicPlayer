@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="margin_horizontal_seekbar">20dp</dimen>
+    <dimen name="margin_card_view">10dp</dimen>
+    <dimen name="margin_vertical_card_view">2dp</dimen>
+
+    <dimen name="margin_horizontal_card_view">5dp</dimen>
+    <dimen name="text_padding">10dp</dimen>
+    <dimen name="text_margin">10dp</dimen>
+    <dimen name="margin_image_view">2dp</dimen>
+    <dimen name="margin_image_view_play_layout">20dp</dimen>
+
+</resources>
